@@ -1,0 +1,231 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* DruaplNiPhoneDemoAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {655, 507}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 542}";
+		};
+	};
+	1D3623250D0F684500981E51 /* DruaplNiPhoneDemoAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {655, 507}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 671}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* DruaplNiPhoneDemo */ = {
+		activeExec = 0;
+		executables = (
+			6A12536F1108BD6B0090965F /* DruaplNiPhoneDemo */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* DruaplNiPhoneDemoViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {655, 507}}";
+			sepNavSelRange = "{196, 107}";
+			sepNavVisRange = "{0, 379}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* DruaplNiPhoneDemoViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1433, 1521}}";
+			sepNavSelRange = "{3019, 395}";
+			sepNavVisRange = "{0, 1138}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 6A12536F1108BD6B0090965F /* DruaplNiPhoneDemo */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* DruaplNiPhoneDemo */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* DruaplNiPhoneDemo */,
+		);
+		codeSenseManager = 6A12538D1108BD7F0090965F /* Code sense */;
+		executables = (
+			6A12536F1108BD6B0090965F /* DruaplNiPhoneDemo */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					584,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 287459063;
+			PBXWorkspaceStateSaveDate = 287459063;
+		};
+		perUserProjectItems = {
+			6A12539F1108C2B60090965F /* PBXTextBookmark */ = 6A12539F1108C2B60090965F /* PBXTextBookmark */;
+			6A12541E110A946C0090965F /* PBXTextBookmark */ = 6A12541E110A946C0090965F /* PBXTextBookmark */;
+			6A12542A110A95A40090965F /* PBXTextBookmark */ = 6A12542A110A95A40090965F /* PBXTextBookmark */;
+			6A6D30F5112328E90002114D /* PBXTextBookmark */ = 6A6D30F5112328E90002114D /* PBXTextBookmark */;
+			6A6D30F6112328E90002114D /* PBXTextBookmark */ = 6A6D30F6112328E90002114D /* PBXTextBookmark */;
+			6A6D30F7112328E90002114D /* PBXTextBookmark */ = 6A6D30F7112328E90002114D /* PBXTextBookmark */;
+			6A6D30F8112328E90002114D /* PBXTextBookmark */ = 6A6D30F8112328E90002114D /* PBXTextBookmark */;
+			6A6D30F9112328E90002114D /* PBXTextBookmark */ = 6A6D30F9112328E90002114D /* PBXTextBookmark */;
+		};
+		sourceControlManager = 6A12538C1108BD7F0090965F /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	6A12536F1108BD6B0090965F /* DruaplNiPhoneDemo */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = DruaplNiPhoneDemo;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	6A1253751108BD7F0090965F /* NSString+XMLExtensions.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {926, 1027}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 1267}";
+		};
+	};
+	6A1253761108BD7F0090965F /* XMLRPCConnection.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {926, 871}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{64, 1542}";
+		};
+	};
+	6A12537C1108BD7F0090965F /* XMLRPCExtensions.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {519, 507}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 698}";
+		};
+	};
+	6A12538C1108BD7F0090965F /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	6A12538D1108BD7F0090965F /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	6A12539F1108C2B60090965F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6A12537C1108BD7F0090965F /* XMLRPCExtensions.h */;
+		name = "XMLRPCExtensions.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 698;
+		vrLoc = 0;
+	};
+	6A12541E110A946C0090965F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6A1253751108BD7F0090965F /* NSString+XMLExtensions.m */;
+		name = "NSString+XMLExtensions.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1267;
+		vrLoc = 0;
+	};
+	6A12542A110A95A40090965F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6A1253761108BD7F0090965F /* XMLRPCConnection.h */;
+		name = "XMLRPCConnection.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1542;
+		vrLoc = 64;
+	};
+	6A6D30F5112328E90002114D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* DruaplNiPhoneDemoAppDelegate.m */;
+		name = "DruaplNiPhoneDemoAppDelegate.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 671;
+		vrLoc = 0;
+	};
+	6A6D30F6112328E90002114D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* DruaplNiPhoneDemoAppDelegate.h */;
+		name = "DruaplNiPhoneDemoAppDelegate.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 542;
+		vrLoc = 0;
+	};
+	6A6D30F7112328E90002114D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* DruaplNiPhoneDemoViewController.h */;
+		name = "DruaplNiPhoneDemoViewController.h: 10";
+		rLen = 107;
+		rLoc = 196;
+		rType = 0;
+		vrLen = 379;
+		vrLoc = 0;
+	};
+	6A6D30F8112328E90002114D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* DruaplNiPhoneDemoViewController.m */;
+		name = "DruaplNiPhoneDemoViewController.m: 18";
+		rLen = 0;
+		rLoc = 500;
+		rType = 0;
+		vrLen = 1041;
+		vrLoc = 0;
+	};
+	6A6D30F9112328E90002114D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* DruaplNiPhoneDemoViewController.m */;
+		name = "DruaplNiPhoneDemoViewController.m: 81";
+		rLen = 395;
+		rLoc = 3019;
+		rType = 0;
+		vrLen = 1138;
+		vrLoc = 0;
+	};
+}

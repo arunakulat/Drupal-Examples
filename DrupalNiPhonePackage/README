@@ -1,0 +1,10 @@
+iPhone code is in the folder: DrupalNiPhoneDemo
+
+The folder "permissionsSettings" shows screen shots of the Drupal module admin/user/permissions, these are necessary and sufficient settings to get services working.  
+
+The folder "services" is the standard Drupal services module with JSON server and comment_service added.  
+
+The Keynote presentation "Drupal + iPhone" was a presentation geared towards Drupal users, introducing them to native iPhone apps.  This was given at Design4Drupal Stanford on 1/28/2010 and at the SF Drupal Users Group meetup on 2/5/2010.  
+The presentation "Drupal + iPhone for iPhone developers" is a shorter presentation geared towards native iPhone app developers.  It was presented at the Silicon Valley iPhone and iPad Developers' meetup on 2/15/2010.  
+
+Step by step instructions can be found in the "Drupal + iPhone" presentation.  This assumes that you have Drupal installed, and does not cover this.  

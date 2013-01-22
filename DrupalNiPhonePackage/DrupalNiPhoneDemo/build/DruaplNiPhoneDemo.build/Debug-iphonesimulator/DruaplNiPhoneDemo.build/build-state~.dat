@@ -1,0 +1,505 @@
+TDruaplNiPhoneDemo
+v7
+r0
+t285786467.850552
+cCheck dependencies
+cProcessInfoPlistFile "/Users/pbharrin/Desktop/iPhone Code/DruaplNiPhoneDemo/build/Debug-iphonesimulator/DruaplNiPhoneDemo.app/Info.plist" DruaplNiPhoneDemo-Info.plist
+cCompileXIB "/Users/pbharrin/Desktop/iPhone Code/DruaplNiPhoneDemo/MainWindow.xib"
+cCompileXIB "/Users/pbharrin/Desktop/iPhone Code/DruaplNiPhoneDemo/DruaplNiPhoneDemoViewController.xib"
+cProcessPCH /var/folders/c1/c1VA5ImpGMu52EcF+Nbavk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DruaplNiPhoneDemo_Prefix-bhmtvllvxorcypgznkmzglkixskl/DruaplNiPhoneDemo_Prefix.pch.gch DruaplNiPhoneDemo_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/DruaplNiPhoneDemo.build/Debug-iphonesimulator/DruaplNiPhoneDemo.build/Objects-normal/i386/main.o "/Users/pbharrin/Desktop/iPhone Code/DruaplNiPhoneDemo/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/DruaplNiPhoneDemo.build/Debug-iphonesimulator/DruaplNiPhoneDemo.build/Objects-normal/i386/DruaplNiPhoneDemoAppDelegate.o "/Users/pbharrin/Desktop/iPhone Code/DruaplNiPhoneDemo/Classes/DruaplNiPhoneDemoAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/DruaplNiPhoneDemo.build/Debug-iphonesimulator/DruaplNiPhoneDemo.build/Objects-normal/i386/DruaplNiPhoneDemoViewController.o "/Users/pbharrin/Desktop/iPhone Code/DruaplNiPhoneDemo/Classes/DruaplNiPhoneDemoViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/DruaplNiPhoneDemo.build/Debug-iphonesimulator/DruaplNiPhoneDemo.build/Objects-normal/i386/NSString+XMLExtensions.o "/Users/pbharrin/Desktop/iPhone Code/DruaplNiPhoneDemo/NSString+XMLExtensions.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/DruaplNiPhoneDemo.build/Debug-iphonesimulator/DruaplNiPhoneDemo.build/Objects-normal/i386/XMLRPCConnection.o "/Users/pbharrin/Desktop/iPhone Code/DruaplNiPhoneDemo/XMLRPCConnection.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/DruaplNiPhoneDemo.build/Debug-iphonesimulator/DruaplNiPhoneDemo.build/Objects-normal/i386/XMLRPCDecoder.o "/Users/pbharrin/Desktop/iPhone Code/DruaplNiPhoneDemo/XMLRPCDecoder.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/DruaplNiPhoneDemo.build/Debug-iphonesimulator/DruaplNiPhoneDemo.build/Objects-normal/i386/XMLRPCEncoder.o "/Users/pbharrin/Desktop/iPhone Code/DruaplNiPhoneDemo/XMLRPCEncoder.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/DruaplNiPhoneDemo.build/Debug-iphonesimulator/DruaplNiPhoneDemo.build/Objects-normal/i386/XMLRPCExtensions.o "/Users/pbharrin/Desktop/iPhone Code/DruaplNiPhoneDemo/XMLRPCExtensions.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/DruaplNiPhoneDemo.build/Debug-iphonesimulator/DruaplNiPhoneDemo.build/Objects-normal/i386/XMLRPCRequest.o "/Users/pbharrin/Desktop/iPhone Code/DruaplNiPhoneDemo/XMLRPCRequest.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/DruaplNiPhoneDemo.build/Debug-iphonesimulator/DruaplNiPhoneDemo.build/Objects-normal/i386/XMLRPCResponse.o "/Users/pbharrin/Desktop/iPhone Code/DruaplNiPhoneDemo/XMLRPCResponse.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/DruaplNiPhoneDemo.build/Debug-iphonesimulator/DruaplNiPhoneDemo.build/Objects-normal/i386/XMLValueDecoder.o "/Users/pbharrin/Desktop/iPhone Code/DruaplNiPhoneDemo/XMLValueDecoder.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk
+c000000004B0B33D600000000000000EE
+t1259025366
+s238
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004ABDC853000000000026EE30
+t1253951571
+s2551344
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004ABDC952000000000027E880
+t1253951826
+s2615424
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004ABDC93F0000000000001355
+t1253951807
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSData.h
+c000000004ABDC93F0000000000000FA8
+t1253951807
+s4008
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h
+c000000004ABDC942000000000000576E
+t1253951810
+s22382
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004ABDEE1D0000000000000788
+t1253961245
+s1928
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004ABDEEE200000000016721E0
+t1253961442
+s23536096
+
+N/Users/pbharrin/Desktop/iPhone Code/DruaplNiPhoneDemo/Classes/DruaplNiPhoneDemoAppDelegate.h
+c000000004B5885EB000000000000021E
+t1264092651
+s542
+i<UIKit/UIKit.h>
+
+N/Users/pbharrin/Desktop/iPhone Code/DruaplNiPhoneDemo/Classes/DruaplNiPhoneDemoAppDelegate.m
+c000000004B5885EB000000000000029F
+t1264092651
+s671
+i"DruaplNiPhoneDemoAppDelegate.h"
+i"DruaplNiPhoneDemoViewController.h"
+
+N/Users/pbharrin/Desktop/iPhone Code/DruaplNiPhoneDemo/Classes/DruaplNiPhoneDemoViewController.h
+c000000004B588819000000000000017B
+t1264093209
+s379
+i<UIKit/UIKit.h>
+i"XMLRPCResponse.h"
+i"XMLRPCRequest.h"
+i"XMLRPCConnection.h"
+i"XMLRPCDecoder.h"
+
+N/Users/pbharrin/Desktop/iPhone Code/DruaplNiPhoneDemo/Classes/DruaplNiPhoneDemoViewController.m
+c000000004B5889DB00000000000010C1
+t1264093659
+s4289
+i"DruaplNiPhoneDemoViewController.h"
+
+N/Users/pbharrin/Desktop/iPhone Code/DruaplNiPhoneDemo/DruaplNiPhoneDemoViewController.xib
+c000000004B5885EB0000000000001903
+t1264092651
+s6403
+
+N/Users/pbharrin/Desktop/iPhone Code/DruaplNiPhoneDemo/DruaplNiPhoneDemo_Prefix.pch
+c000000004B5885EB00000000000000CB
+t1264092651
+s203
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/pbharrin/Desktop/iPhone Code/DruaplNiPhoneDemo/MainWindow.xib
+c000000004B5885EB00000000000024BC
+t1264092651
+s9404
+
+N/Users/pbharrin/Desktop/iPhone Code/DruaplNiPhoneDemo/NSString+XMLExtensions.h
+c00000000498B0B480000000000000143
+t1233849160
+s323
+i<UIKit/UIKit.h>
+
+N/Users/pbharrin/Desktop/iPhone Code/DruaplNiPhoneDemo/NSString+XMLExtensions.m
+c00000000498B0B480000000000000949
+t1233849160
+s2377
+i"NSString+XMLExtensions.h"
+
+N/Users/pbharrin/Desktop/iPhone Code/DruaplNiPhoneDemo/XMLRPCConnection.h
+c00000000498B0B480000000000000809
+t1233849160
+s2057
+i<Foundation/Foundation.h>
+
+N/Users/pbharrin/Desktop/iPhone Code/DruaplNiPhoneDemo/XMLRPCConnection.m
+c00000000498B0B4800000000000011E1
+t1233849160
+s4577
+i"XMLRPCConnection.h"
+i"XMLRPCRequest.h"
+i"XMLRPCResponse.h"
+
+N/Users/pbharrin/Desktop/iPhone Code/DruaplNiPhoneDemo/XMLRPCDecoder.h
+c00000000498B0B480000000000000581
+t1233849160
+s1409
+i<Foundation/Foundation.h>
+i"XMLValueDecoder.h"
+
+N/Users/pbharrin/Desktop/iPhone Code/DruaplNiPhoneDemo/XMLRPCDecoder.m
+c00000000498B0B480000000000000D25
+t1233849160
+s3365
+i"XMLRPCDecoder.h"
+i"XMLRPCExtensions.h"
+
+N/Users/pbharrin/Desktop/iPhone Code/DruaplNiPhoneDemo/XMLRPCEncoder.h
+c00000000498B0B4800000000000005B9
+t1233849160
+s1465
+i<Foundation/Foundation.h>
+
+N/Users/pbharrin/Desktop/iPhone Code/DruaplNiPhoneDemo/XMLRPCEncoder.m
+c000000004ACCC1000000000000002168
+t1254932736
+s8552
+i"XMLRPCEncoder.h"
+i"XMLRPCExtensions.h"
+i"NSString+XMLExtensions.h"
+
+N/Users/pbharrin/Desktop/iPhone Code/DruaplNiPhoneDemo/XMLRPCExtensions.h
+c00000000498B0B480000000000000590
+t1233849160
+s1424
+i<Foundation/NSData.h>
+i<Foundation/NSString.h>
+
+N/Users/pbharrin/Desktop/iPhone Code/DruaplNiPhoneDemo/XMLRPCExtensions.m
+c00000000498B0B4800000000000014A2
+t1233849160
+s5282
+i"XMLRPCExtensions.h"
+
+N/Users/pbharrin/Desktop/iPhone Code/DruaplNiPhoneDemo/XMLRPCRequest.h
+c00000000498C683A0000000000000703
+t1233938490
+s1795
+i<Foundation/Foundation.h>
+
+N/Users/pbharrin/Desktop/iPhone Code/DruaplNiPhoneDemo/XMLRPCRequest.m
+c00000000498B0B480000000000000E50
+t1233849160
+s3664
+i"XMLRPCRequest.h"
+i"XMLRPCEncoder.h"
+
+N/Users/pbharrin/Desktop/iPhone Code/DruaplNiPhoneDemo/XMLRPCResponse.h
+c00000000498B0B480000000000000609
+t1233849160
+s1545
+i<Foundation/Foundation.h>
+
+N/Users/pbharrin/Desktop/iPhone Code/DruaplNiPhoneDemo/XMLRPCResponse.m
+c00000000498B0B480000000000000AB9
+t1233849160
+s2745
+i"XMLRPCResponse.h"
+i"XMLRPCDecoder.h"
+
+N/Users/pbharrin/Desktop/iPhone Code/DruaplNiPhoneDemo/XMLValueDecoder.h
+c00000000498B0B4800000000000002F0
+t1233849160
+s752
+i<Foundation/Foundation.h>
+
+N/Users/pbharrin/Desktop/iPhone Code/DruaplNiPhoneDemo/XMLValueDecoder.m
+c00000000498B0B4800000000000019B8
+t1233849160
+s6584
+i"XMLValueDecoder.h"
+i"XMLRPCExtensions.h"
+i"NSString+XMLExtensions.h"
+
+N/Users/pbharrin/Desktop/iPhone Code/DruaplNiPhoneDemo/build/Debug-iphonesimulator/DruaplNiPhoneDemo.app
+t2
+s0
+
+N/Users/pbharrin/Desktop/iPhone Code/DruaplNiPhoneDemo/build/Debug-iphonesimulator/DruaplNiPhoneDemo.app.dSYM
+t2
+s0
+
+N/Users/pbharrin/Desktop/iPhone Code/DruaplNiPhoneDemo/build/Debug-iphonesimulator/DruaplNiPhoneDemo.app/DruaplNiPhoneDemo
+t2
+s0
+
+N/Users/pbharrin/Desktop/iPhone Code/DruaplNiPhoneDemo/build/Debug-iphonesimulator/DruaplNiPhoneDemo.app/DruaplNiPhoneDemoViewController.nib
+t1264093666
+s1151
+
+N/Users/pbharrin/Desktop/iPhone Code/DruaplNiPhoneDemo/build/Debug-iphonesimulator/DruaplNiPhoneDemo.app/Info.plist
+t1264093666
+s610
+
+N/Users/pbharrin/Desktop/iPhone Code/DruaplNiPhoneDemo/build/Debug-iphonesimulator/DruaplNiPhoneDemo.app/MainWindow.nib
+t1264093666
+s1515
+
+N/Users/pbharrin/Desktop/iPhone Code/DruaplNiPhoneDemo/build/Debug-iphonesimulator/DruaplNiPhoneDemo.app/PkgInfo
+t1264093666
+s8
+
+N/Users/pbharrin/Desktop/iPhone Code/DruaplNiPhoneDemo/build/DruaplNiPhoneDemo.build/Debug-iphonesimulator/DruaplNiPhoneDemo.build/Objects-normal/i386/DruaplNiPhoneDemo.LinkFileList
+c000000004B5889E2000000000000074C
+t1264093666
+s1868
+
+N/Users/pbharrin/Desktop/iPhone Code/DruaplNiPhoneDemo/build/DruaplNiPhoneDemo.build/Debug-iphonesimulator/DruaplNiPhoneDemo.build/Objects-normal/i386/DruaplNiPhoneDemoAppDelegate.o
+t1264093667
+s38336
+
+N/Users/pbharrin/Desktop/iPhone Code/DruaplNiPhoneDemo/build/DruaplNiPhoneDemo.build/Debug-iphonesimulator/DruaplNiPhoneDemo.build/Objects-normal/i386/DruaplNiPhoneDemoViewController.o
+t2
+s0
+
+N/Users/pbharrin/Desktop/iPhone Code/DruaplNiPhoneDemo/build/DruaplNiPhoneDemo.build/Debug-iphonesimulator/DruaplNiPhoneDemo.build/Objects-normal/i386/NSString+XMLExtensions.o
+t1264093667
+s10344
+
+N/Users/pbharrin/Desktop/iPhone Code/DruaplNiPhoneDemo/build/DruaplNiPhoneDemo.build/Debug-iphonesimulator/DruaplNiPhoneDemo.build/Objects-normal/i386/XMLRPCConnection.o
+t1264093667
+s17148
+
+N/Users/pbharrin/Desktop/iPhone Code/DruaplNiPhoneDemo/build/DruaplNiPhoneDemo.build/Debug-iphonesimulator/DruaplNiPhoneDemo.build/Objects-normal/i386/XMLRPCDecoder.o
+t1264093667
+s13524
+
+N/Users/pbharrin/Desktop/iPhone Code/DruaplNiPhoneDemo/build/DruaplNiPhoneDemo.build/Debug-iphonesimulator/DruaplNiPhoneDemo.build/Objects-normal/i386/XMLRPCEncoder.o
+t1264093667
+s26792
+
+N/Users/pbharrin/Desktop/iPhone Code/DruaplNiPhoneDemo/build/DruaplNiPhoneDemo.build/Debug-iphonesimulator/DruaplNiPhoneDemo.build/Objects-normal/i386/XMLRPCExtensions.o
+t1264093667
+s10232
+
+N/Users/pbharrin/Desktop/iPhone Code/DruaplNiPhoneDemo/build/DruaplNiPhoneDemo.build/Debug-iphonesimulator/DruaplNiPhoneDemo.build/Objects-normal/i386/XMLRPCRequest.o
+t1264093667
+s17080
+
+N/Users/pbharrin/Desktop/iPhone Code/DruaplNiPhoneDemo/build/DruaplNiPhoneDemo.build/Debug-iphonesimulator/DruaplNiPhoneDemo.build/Objects-normal/i386/XMLRPCResponse.o
+t1264093667
+s14176
+
+N/Users/pbharrin/Desktop/iPhone Code/DruaplNiPhoneDemo/build/DruaplNiPhoneDemo.build/Debug-iphonesimulator/DruaplNiPhoneDemo.build/Objects-normal/i386/XMLValueDecoder.o
+t1264093667
+s21076
+
+N/Users/pbharrin/Desktop/iPhone Code/DruaplNiPhoneDemo/build/DruaplNiPhoneDemo.build/Debug-iphonesimulator/DruaplNiPhoneDemo.build/Objects-normal/i386/main.o
+t1264093667
+s5988
+
+N/Users/pbharrin/Desktop/iPhone Code/DruaplNiPhoneDemo/main.m
+c000000004B5885EB0000000000000176
+t1264092651
+s374
+i<UIKit/UIKit.h>
+
+N/var/folders/c1/c1VA5ImpGMu52EcF+Nbavk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DruaplNiPhoneDemo_Prefix-bhmtvllvxorcypgznkmzglkixskl/DruaplNiPhoneDemo_Prefix.pch.gch
+t1264093667
+s13034960
+
+NDruaplNiPhoneDemo-Info.plist
+c000000004B5885EB000000000000038D
+t1264092651
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies285786466#285786466#0(0"0(0#1#0"4300885448#0"0#
+
+CCompileC build/DruaplNiPhoneDemo.build/Debug-iphonesimulator/DruaplNiPhoneDemo.build/Objects-normal/i386/DruaplNiPhoneDemoAppDelegate.o "/Users/pbharrin/Desktop/iPhone Code/DruaplNiPhoneDemo/Classes/DruaplNiPhoneDemoAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s285786467.450220
+e285786467.513348
+r1
+xCompileC
+xbuild/DruaplNiPhoneDemo.build/Debug-iphonesimulator/DruaplNiPhoneDemo.build/Objects-normal/i386/DruaplNiPhoneDemoAppDelegate.o
+x/Users/pbharrin/Desktop/iPhone Code/DruaplNiPhoneDemo/Classes/DruaplNiPhoneDemoAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@100"Compile /Users/pbharrin/Desktop/iPhone Code/DruaplNiPhoneDemo/Classes/DruaplNiPhoneDemoAppDelegate.m285786467#285786467#0(0"0(0#0#92"/Users/pbharrin/Desktop/iPhone Code/DruaplNiPhoneDemo/Classes/DruaplNiPhoneDemoAppDelegate.m4300885448#2302"    cd "/Users/pbharrin/Desktop/iPhone Code/DruaplNiPhoneDemo"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/pbharrin/Desktop/iPhone Code/DruaplNiPhoneDemo/build/DruaplNiPhoneDemo.build/Debug-iphonesimulator/DruaplNiPhoneDemo.build/DruaplNiPhoneDemo-generated-files.hmap" "-I/Users/pbharrin/Desktop/iPhone Code/DruaplNiPhoneDemo/build/DruaplNiPhoneDemo.build/Debug-iphonesimulator/DruaplNiPhoneDemo.build/DruaplNiPhoneDemo-own-target-headers.hmap" "-I/Users/pbharrin/Desktop/iPhone Code/DruaplNiPhoneDemo/build/DruaplNiPhoneDemo.build/Debug-iphonesimulator/DruaplNiPhoneDemo.build/DruaplNiPhoneDemo-all-target-headers.hmap" -iquote "/Users/pbharrin/Desktop/iPhone Code/DruaplNiPhoneDemo/build/DruaplNiPhoneDemo.build/Debug-iphonesimulator/DruaplNiPhoneDemo.build/DruaplNiPhoneDemo-project-headers.hmap" "-F/Users/pbharrin/Desktop/iPhone Code/DruaplNiPhoneDemo/build/Debug-iphonesimulator" "-I/Users/pbharrin/Desktop/iPhone Code/DruaplNiPhoneDemo/build/Debug-iphonesimulator/include" "-I/Users/pbharrin/Desktop/iPhone Code/DruaplNiPhoneDemo/build/DruaplNiPhoneDemo.build/Debug-iphonesimulator/DruaplNiPhoneDemo.build/DerivedSources/i386" "-I/Users/pbharrin/Desktop/iPhone Code/DruaplNiPhoneDemo/build/DruaplNiPhoneDemo.build/Debug-iphonesimulator/DruaplNiPhoneDemo.build/DerivedSources" -include /var/folders/c1/c1VA5ImpGMu52EcF+Nbavk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DruaplNiPhoneDemo_Prefix-bhmtvllvxorcypgznkmzglkixskl/DruaplNiPhoneDemo_Prefix.pch -c "/Users/pbharrin/Desktop/iPhone Code/DruaplNiPhoneDemo/Classes/DruaplNiPhoneDemoAppDelegate.m" -o "/Users/pbharrin/Desktop/iPhone Code/DruaplNiPhoneDemo/build/DruaplNiPhoneDemo.build/Debug-iphonesimulator/DruaplNiPhoneDemo.build/Objects-normal/i386/DruaplNiPhoneDemoAppDelegate.o"0#
+
+CCompileC build/DruaplNiPhoneDemo.build/Debug-iphonesimulator/DruaplNiPhoneDemo.build/Objects-normal/i386/DruaplNiPhoneDemoViewController.o "/Users/pbharrin/Desktop/iPhone Code/DruaplNiPhoneDemo/Classes/DruaplNiPhoneDemoViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s285786467.493793
+e285786467.533263
+r0
+xCompileC
+xbuild/DruaplNiPhoneDemo.build/Debug-iphonesimulator/DruaplNiPhoneDemo.build/Objects-normal/i386/DruaplNiPhoneDemoViewController.o
+x/Users/pbharrin/Desktop/iPhone Code/DruaplNiPhoneDemo/Classes/DruaplNiPhoneDemoViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/pbharrin/Desktop/iPhone Code/DruaplNiPhoneDemo/Classes/DruaplNiPhoneDemoViewController.m: In function '-[DruaplNiPhoneDemoViewController viewDidLoad]':
+o/Users/pbharrin/Desktop/iPhone Code/DruaplNiPhoneDemo/Classes/DruaplNiPhoneDemoViewController.m:73: error: 'nodeID' undeclared (first use in this function)
+o/Users/pbharrin/Desktop/iPhone Code/DruaplNiPhoneDemo/Classes/DruaplNiPhoneDemoViewController.m:73: error: (Each undeclared identifier is reported only once
+o/Users/pbharrin/Desktop/iPhone Code/DruaplNiPhoneDemo/Classes/DruaplNiPhoneDemoViewController.m:73: error: for each function it appears in.)
+o/Users/pbharrin/Desktop/iPhone Code/DruaplNiPhoneDemo/Classes/DruaplNiPhoneDemoViewController.m:46: warning: unused variable 'nodeToGrab'
+lSLF07#2@103"Compile /Users/pbharrin/Desktop/iPhone Code/DruaplNiPhoneDemo/Classes/DruaplNiPhoneDemoViewController.m285786467#285786467#0(751"/Users/pbharrin/Desktop/iPhone Code/DruaplNiPhoneDemo/Classes/DruaplNiPhoneDemoViewController.m: In function '-[DruaplNiPhoneDemoViewController viewDidLoad]':/Users/pbharrin/Desktop/iPhone Code/DruaplNiPhoneDemo/Classes/DruaplNiPhoneDemoViewController.m:73: error: 'nodeID' undeclared (first use in this function)/Users/pbharrin/Desktop/iPhone Code/DruaplNiPhoneDemo/Classes/DruaplNiPhoneDemoViewController.m:73: error: (Each undeclared identifier is reported only once/Users/pbharrin/Desktop/iPhone Code/DruaplNiPhoneDemo/Classes/DruaplNiPhoneDemoViewController.m:73: error: for each function it appears in.)/Users/pbharrin/Desktop/iPhone Code/DruaplNiPhoneDemo/Classes/DruaplNiPhoneDemoViewController.m:46: warning: unused variable 'nodeToGrab'2(4@48"'nodeID' undeclared (first use in this function)285786467#159#156#0(6@95"/Users/pbharrin/Desktop/iPhone Code/DruaplNiPhoneDemo/Classes/DruaplNiPhoneDemoViewController.m285786459#73#0#73#0#43"'*' undeclared (first use in this function)0(22@28"Unused variable 'nodeToGrab'285786467#613#138#0(6@95"/Users/pbharrin/Desktop/iPhone Code/DruaplNiPhoneDemo/Classes/DruaplNiPhoneDemoViewController.m285786459#46#0#46#0#19"unused variable '*'0(0#0#95"/Users/pbharrin/Desktop/iPhone Code/DruaplNiPhoneDemo/Classes/DruaplNiPhoneDemoViewController.m4300885448#2308"    cd "/Users/pbharrin/Desktop/iPhone Code/DruaplNiPhoneDemo"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/pbharrin/Desktop/iPhone Code/DruaplNiPhoneDemo/build/DruaplNiPhoneDemo.build/Debug-iphonesimulator/DruaplNiPhoneDemo.build/DruaplNiPhoneDemo-generated-files.hmap" "-I/Users/pbharrin/Desktop/iPhone Code/DruaplNiPhoneDemo/build/DruaplNiPhoneDemo.build/Debug-iphonesimulator/DruaplNiPhoneDemo.build/DruaplNiPhoneDemo-own-target-headers.hmap" "-I/Users/pbharrin/Desktop/iPhone Code/DruaplNiPhoneDemo/build/DruaplNiPhoneDemo.build/Debug-iphonesimulator/DruaplNiPhoneDemo.build/DruaplNiPhoneDemo-all-target-headers.hmap" -iquote "/Users/pbharrin/Desktop/iPhone Code/DruaplNiPhoneDemo/build/DruaplNiPhoneDemo.build/Debug-iphonesimulator/DruaplNiPhoneDemo.build/DruaplNiPhoneDemo-project-headers.hmap" "-F/Users/pbharrin/Desktop/iPhone Code/DruaplNiPhoneDemo/build/Debug-iphonesimulator" "-I/Users/pbharrin/Desktop/iPhone Code/DruaplNiPhoneDemo/build/Debug-iphonesimulator/include" "-I/Users/pbharrin/Desktop/iPhone Code/DruaplNiPhoneDemo/build/DruaplNiPhoneDemo.build/Debug-iphonesimulator/DruaplNiPhoneDemo.build/DerivedSources/i386" "-I/Users/pbharrin/Desktop/iPhone Code/DruaplNiPhoneDemo/build/DruaplNiPhoneDemo.build/Debug-iphonesimulator/DruaplNiPhoneDemo.build/DerivedSources" -include /var/folders/c1/c1VA5ImpGMu52EcF+Nbavk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DruaplNiPhoneDemo_Prefix-bhmtvllvxorcypgznkmzglkixskl/DruaplNiPhoneDemo_Prefix.pch -c "/Users/pbharrin/Desktop/iPhone Code/DruaplNiPhoneDemo/Classes/DruaplNiPhoneDemoViewController.m" -o "/Users/pbharrin/Desktop/iPhone Code/DruaplNiPhoneDemo/build/DruaplNiPhoneDemo.build/Debug-iphonesimulator/DruaplNiPhoneDemo.build/Objects-normal/i386/DruaplNiPhoneDemoViewController.o"1#
+
+CCompileC build/DruaplNiPhoneDemo.build/Debug-iphonesimulator/DruaplNiPhoneDemo.build/Objects-normal/i386/NSString+XMLExtensions.o "/Users/pbharrin/Desktop/iPhone Code/DruaplNiPhoneDemo/NSString+XMLExtensions.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s285786467.513449
+e285786467.569051
+r1
+xCompileC
+xbuild/DruaplNiPhoneDemo.build/Debug-iphonesimulator/DruaplNiPhoneDemo.build/Objects-normal/i386/NSString+XMLExtensions.o
+x/Users/pbharrin/Desktop/iPhone Code/DruaplNiPhoneDemo/NSString+XMLExtensions.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@86"Compile /Users/pbharrin/Desktop/iPhone Code/DruaplNiPhoneDemo/NSString+XMLExtensions.m285786467#285786467#0(0"0(0#0#78"/Users/pbharrin/Desktop/iPhone Code/DruaplNiPhoneDemo/NSString+XMLExtensions.m4300885448#2282"    cd "/Users/pbharrin/Desktop/iPhone Code/DruaplNiPhoneDemo"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/pbharrin/Desktop/iPhone Code/DruaplNiPhoneDemo/build/DruaplNiPhoneDemo.build/Debug-iphonesimulator/DruaplNiPhoneDemo.build/DruaplNiPhoneDemo-generated-files.hmap" "-I/Users/pbharrin/Desktop/iPhone Code/DruaplNiPhoneDemo/build/DruaplNiPhoneDemo.build/Debug-iphonesimulator/DruaplNiPhoneDemo.build/DruaplNiPhoneDemo-own-target-headers.hmap" "-I/Users/pbharrin/Desktop/iPhone Code/DruaplNiPhoneDemo/build/DruaplNiPhoneDemo.build/Debug-iphonesimulator/DruaplNiPhoneDemo.build/DruaplNiPhoneDemo-all-target-headers.hmap" -iquote "/Users/pbharrin/Desktop/iPhone Code/DruaplNiPhoneDemo/build/DruaplNiPhoneDemo.build/Debug-iphonesimulator/DruaplNiPhoneDemo.build/DruaplNiPhoneDemo-project-headers.hmap" "-F/Users/pbharrin/Desktop/iPhone Code/DruaplNiPhoneDemo/build/Debug-iphonesimulator" "-I/Users/pbharrin/Desktop/iPhone Code/DruaplNiPhoneDemo/build/Debug-iphonesimulator/include" "-I/Users/pbharrin/Desktop/iPhone Code/DruaplNiPhoneDemo/build/DruaplNiPhoneDemo.build/Debug-iphonesimulator/DruaplNiPhoneDemo.build/DerivedSources/i386" "-I/Users/pbharrin/Desktop/iPhone Code/DruaplNiPhoneDemo/build/DruaplNiPhoneDemo.build/Debug-iphonesimulator/DruaplNiPhoneDemo.build/DerivedSources" -include /var/folders/c1/c1VA5ImpGMu52EcF+Nbavk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DruaplNiPhoneDemo_Prefix-bhmtvllvxorcypgznkmzglkixskl/DruaplNiPhoneDemo_Prefix.pch -c "/Users/pbharrin/Desktop/iPhone Code/DruaplNiPhoneDemo/NSString+XMLExtensions.m" -o "/Users/pbharrin/Desktop/iPhone Code/DruaplNiPhoneDemo/build/DruaplNiPhoneDemo.build/Debug-iphonesimulator/DruaplNiPhoneDemo.build/Objects-normal/i386/NSString+XMLExtensions.o"0#
+
+CCompileC build/DruaplNiPhoneDemo.build/Debug-iphonesimulator/DruaplNiPhoneDemo.build/Objects-normal/i386/XMLRPCConnection.o "/Users/pbharrin/Desktop/iPhone Code/DruaplNiPhoneDemo/XMLRPCConnection.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s285786467.533353
+e285786467.614935
+r1
+xCompileC
+xbuild/DruaplNiPhoneDemo.build/Debug-iphonesimulator/DruaplNiPhoneDemo.build/Objects-normal/i386/XMLRPCConnection.o
+x/Users/pbharrin/Desktop/iPhone Code/DruaplNiPhoneDemo/XMLRPCConnection.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@80"Compile /Users/pbharrin/Desktop/iPhone Code/DruaplNiPhoneDemo/XMLRPCConnection.m285786467#285786467#0(0"0(0#0#72"/Users/pbharrin/Desktop/iPhone Code/DruaplNiPhoneDemo/XMLRPCConnection.m4300885448#2270"    cd "/Users/pbharrin/Desktop/iPhone Code/DruaplNiPhoneDemo"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/pbharrin/Desktop/iPhone Code/DruaplNiPhoneDemo/build/DruaplNiPhoneDemo.build/Debug-iphonesimulator/DruaplNiPhoneDemo.build/DruaplNiPhoneDemo-generated-files.hmap" "-I/Users/pbharrin/Desktop/iPhone Code/DruaplNiPhoneDemo/build/DruaplNiPhoneDemo.build/Debug-iphonesimulator/DruaplNiPhoneDemo.build/DruaplNiPhoneDemo-own-target-headers.hmap" "-I/Users/pbharrin/Desktop/iPhone Code/DruaplNiPhoneDemo/build/DruaplNiPhoneDemo.build/Debug-iphonesimulator/DruaplNiPhoneDemo.build/DruaplNiPhoneDemo-all-target-headers.hmap" -iquote "/Users/pbharrin/Desktop/iPhone Code/DruaplNiPhoneDemo/build/DruaplNiPhoneDemo.build/Debug-iphonesimulator/DruaplNiPhoneDemo.build/DruaplNiPhoneDemo-project-headers.hmap" "-F/Users/pbharrin/Desktop/iPhone Code/DruaplNiPhoneDemo/build/Debug-iphonesimulator" "-I/Users/pbharrin/Desktop/iPhone Code/DruaplNiPhoneDemo/build/Debug-iphonesimulator/include" "-I/Users/pbharrin/Desktop/iPhone Code/DruaplNiPhoneDemo/build/DruaplNiPhoneDemo.build/Debug-iphonesimulator/DruaplNiPhoneDemo.build/DerivedSources/i386" "-I/Users/pbharrin/Desktop/iPhone Code/DruaplNiPhoneDemo/build/DruaplNiPhoneDemo.build/Debug-iphonesimulator/DruaplNiPhoneDemo.build/DerivedSources" -include /var/folders/c1/c1VA5ImpGMu52EcF+Nbavk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DruaplNiPhoneDemo_Prefix-bhmtvllvxorcypgznkmzglkixskl/DruaplNiPhoneDemo_Prefix.pch -c "/Users/pbharrin/Desktop/iPhone Code/DruaplNiPhoneDemo/XMLRPCConnection.m" -o "/Users/pbharrin/Desktop/iPhone Code/DruaplNiPhoneDemo/build/DruaplNiPhoneDemo.build/Debug-iphonesimulator/DruaplNiPhoneDemo.build/Objects-normal/i386/XMLRPCConnection.o"0#
+
+CCompileC build/DruaplNiPhoneDemo.build/Debug-iphonesimulator/DruaplNiPhoneDemo.build/Objects-normal/i386/XMLRPCDecoder.o "/Users/pbharrin/Desktop/iPhone Code/DruaplNiPhoneDemo/XMLRPCDecoder.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s285786467.569147
+e285786467.661903
+r1
+xCompileC
+xbuild/DruaplNiPhoneDemo.build/Debug-iphonesimulator/DruaplNiPhoneDemo.build/Objects-normal/i386/XMLRPCDecoder.o
+x/Users/pbharrin/Desktop/iPhone Code/DruaplNiPhoneDemo/XMLRPCDecoder.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@77"Compile /Users/pbharrin/Desktop/iPhone Code/DruaplNiPhoneDemo/XMLRPCDecoder.m285786467#285786467#0(0"0(0#0#69"/Users/pbharrin/Desktop/iPhone Code/DruaplNiPhoneDemo/XMLRPCDecoder.m4300885448#2264"    cd "/Users/pbharrin/Desktop/iPhone Code/DruaplNiPhoneDemo"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/pbharrin/Desktop/iPhone Code/DruaplNiPhoneDemo/build/DruaplNiPhoneDemo.build/Debug-iphonesimulator/DruaplNiPhoneDemo.build/DruaplNiPhoneDemo-generated-files.hmap" "-I/Users/pbharrin/Desktop/iPhone Code/DruaplNiPhoneDemo/build/DruaplNiPhoneDemo.build/Debug-iphonesimulator/DruaplNiPhoneDemo.build/DruaplNiPhoneDemo-own-target-headers.hmap" "-I/Users/pbharrin/Desktop/iPhone Code/DruaplNiPhoneDemo/build/DruaplNiPhoneDemo.build/Debug-iphonesimulator/DruaplNiPhoneDemo.build/DruaplNiPhoneDemo-all-target-headers.hmap" -iquote "/Users/pbharrin/Desktop/iPhone Code/DruaplNiPhoneDemo/build/DruaplNiPhoneDemo.build/Debug-iphonesimulator/DruaplNiPhoneDemo.build/DruaplNiPhoneDemo-project-headers.hmap" "-F/Users/pbharrin/Desktop/iPhone Code/DruaplNiPhoneDemo/build/Debug-iphonesimulator" "-I/Users/pbharrin/Desktop/iPhone Code/DruaplNiPhoneDemo/build/Debug-iphonesimulator/include" "-I/Users/pbharrin/Desktop/iPhone Code/DruaplNiPhoneDemo/build/DruaplNiPhoneDemo.build/Debug-iphonesimulator/DruaplNiPhoneDemo.build/DerivedSources/i386" "-I/Users/pbharrin/Desktop/iPhone Code/DruaplNiPhoneDemo/build/DruaplNiPhoneDemo.build/Debug-iphonesimulator/DruaplNiPhoneDemo.build/DerivedSources" -include /var/folders/c1/c1VA5ImpGMu52EcF+Nbavk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DruaplNiPhoneDemo_Prefix-bhmtvllvxorcypgznkmzglkixskl/DruaplNiPhoneDemo_Prefix.pch -c "/Users/pbharrin/Desktop/iPhone Code/DruaplNiPhoneDemo/XMLRPCDecoder.m" -o "/Users/pbharrin/Desktop/iPhone Code/DruaplNiPhoneDemo/build/DruaplNiPhoneDemo.build/Debug-iphonesimulator/DruaplNiPhoneDemo.build/Objects-normal/i386/XMLRPCDecoder.o"0#
+
+CCompileC build/DruaplNiPhoneDemo.build/Debug-iphonesimulator/DruaplNiPhoneDemo.build/Objects-normal/i386/XMLRPCEncoder.o "/Users/pbharrin/Desktop/iPhone Code/DruaplNiPhoneDemo/XMLRPCEncoder.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s285786467.615026
+e285786467.716808
+r1
+xCompileC
+xbuild/DruaplNiPhoneDemo.build/Debug-iphonesimulator/DruaplNiPhoneDemo.build/Objects-normal/i386/XMLRPCEncoder.o
+x/Users/pbharrin/Desktop/iPhone Code/DruaplNiPhoneDemo/XMLRPCEncoder.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@77"Compile /Users/pbharrin/Desktop/iPhone Code/DruaplNiPhoneDemo/XMLRPCEncoder.m285786467#285786467#0(0"0(0#0#69"/Users/pbharrin/Desktop/iPhone Code/DruaplNiPhoneDemo/XMLRPCEncoder.m4300885448#2264"    cd "/Users/pbharrin/Desktop/iPhone Code/DruaplNiPhoneDemo"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/pbharrin/Desktop/iPhone Code/DruaplNiPhoneDemo/build/DruaplNiPhoneDemo.build/Debug-iphonesimulator/DruaplNiPhoneDemo.build/DruaplNiPhoneDemo-generated-files.hmap" "-I/Users/pbharrin/Desktop/iPhone Code/DruaplNiPhoneDemo/build/DruaplNiPhoneDemo.build/Debug-iphonesimulator/DruaplNiPhoneDemo.build/DruaplNiPhoneDemo-own-target-headers.hmap" "-I/Users/pbharrin/Desktop/iPhone Code/DruaplNiPhoneDemo/build/DruaplNiPhoneDemo.build/Debug-iphonesimulator/DruaplNiPhoneDemo.build/DruaplNiPhoneDemo-all-target-headers.hmap" -iquote "/Users/pbharrin/Desktop/iPhone Code/DruaplNiPhoneDemo/build/DruaplNiPhoneDemo.build/Debug-iphonesimulator/DruaplNiPhoneDemo.build/DruaplNiPhoneDemo-project-headers.hmap" "-F/Users/pbharrin/Desktop/iPhone Code/DruaplNiPhoneDemo/build/Debug-iphonesimulator" "-I/Users/pbharrin/Desktop/iPhone Code/DruaplNiPhoneDemo/build/Debug-iphonesimulator/include" "-I/Users/pbharrin/Desktop/iPhone Code/DruaplNiPhoneDemo/build/DruaplNiPhoneDemo.build/Debug-iphonesimulator/DruaplNiPhoneDemo.build/DerivedSources/i386" "-I/Users/pbharrin/Desktop/iPhone Code/DruaplNiPhoneDemo/build/DruaplNiPhoneDemo.build/Debug-iphonesimulator/DruaplNiPhoneDemo.build/DerivedSources" -include /var/folders/c1/c1VA5ImpGMu52EcF+Nbavk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DruaplNiPhoneDemo_Prefix-bhmtvllvxorcypgznkmzglkixskl/DruaplNiPhoneDemo_Prefix.pch -c "/Users/pbharrin/Desktop/iPhone Code/DruaplNiPhoneDemo/XMLRPCEncoder.m" -o "/Users/pbharrin/Desktop/iPhone Code/DruaplNiPhoneDemo/build/DruaplNiPhoneDemo.build/Debug-iphonesimulator/DruaplNiPhoneDemo.build/Objects-normal/i386/XMLRPCEncoder.o"0#
+
+CCompileC build/DruaplNiPhoneDemo.build/Debug-iphonesimulator/DruaplNiPhoneDemo.build/Objects-normal/i386/XMLRPCExtensions.o "/Users/pbharrin/Desktop/iPhone Code/DruaplNiPhoneDemo/XMLRPCExtensions.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s285786467.661989
+e285786467.722043
+r1
+xCompileC
+xbuild/DruaplNiPhoneDemo.build/Debug-iphonesimulator/DruaplNiPhoneDemo.build/Objects-normal/i386/XMLRPCExtensions.o
+x/Users/pbharrin/Desktop/iPhone Code/DruaplNiPhoneDemo/XMLRPCExtensions.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@80"Compile /Users/pbharrin/Desktop/iPhone Code/DruaplNiPhoneDemo/XMLRPCExtensions.m285786467#285786467#0(0"0(0#0#72"/Users/pbharrin/Desktop/iPhone Code/DruaplNiPhoneDemo/XMLRPCExtensions.m4300885448#2270"    cd "/Users/pbharrin/Desktop/iPhone Code/DruaplNiPhoneDemo"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/pbharrin/Desktop/iPhone Code/DruaplNiPhoneDemo/build/DruaplNiPhoneDemo.build/Debug-iphonesimulator/DruaplNiPhoneDemo.build/DruaplNiPhoneDemo-generated-files.hmap" "-I/Users/pbharrin/Desktop/iPhone Code/DruaplNiPhoneDemo/build/DruaplNiPhoneDemo.build/Debug-iphonesimulator/DruaplNiPhoneDemo.build/DruaplNiPhoneDemo-own-target-headers.hmap" "-I/Users/pbharrin/Desktop/iPhone Code/DruaplNiPhoneDemo/build/DruaplNiPhoneDemo.build/Debug-iphonesimulator/DruaplNiPhoneDemo.build/DruaplNiPhoneDemo-all-target-headers.hmap" -iquote "/Users/pbharrin/Desktop/iPhone Code/DruaplNiPhoneDemo/build/DruaplNiPhoneDemo.build/Debug-iphonesimulator/DruaplNiPhoneDemo.build/DruaplNiPhoneDemo-project-headers.hmap" "-F/Users/pbharrin/Desktop/iPhone Code/DruaplNiPhoneDemo/build/Debug-iphonesimulator" "-I/Users/pbharrin/Desktop/iPhone Code/DruaplNiPhoneDemo/build/Debug-iphonesimulator/include" "-I/Users/pbharrin/Desktop/iPhone Code/DruaplNiPhoneDemo/build/DruaplNiPhoneDemo.build/Debug-iphonesimulator/DruaplNiPhoneDemo.build/DerivedSources/i386" "-I/Users/pbharrin/Desktop/iPhone Code/DruaplNiPhoneDemo/build/DruaplNiPhoneDemo.build/Debug-iphonesimulator/DruaplNiPhoneDemo.build/DerivedSources" -include /var/folders/c1/c1VA5ImpGMu52EcF+Nbavk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DruaplNiPhoneDemo_Prefix-bhmtvllvxorcypgznkmzglkixskl/DruaplNiPhoneDemo_Prefix.pch -c "/Users/pbharrin/Desktop/iPhone Code/DruaplNiPhoneDemo/XMLRPCExtensions.m" -o "/Users/pbharrin/Desktop/iPhone Code/DruaplNiPhoneDemo/build/DruaplNiPhoneDemo.build/Debug-iphonesimulator/DruaplNiPhoneDemo.build/Objects-normal/i386/XMLRPCExtensions.o"0#
+
+CCompileC build/DruaplNiPhoneDemo.build/Debug-iphonesimulator/DruaplNiPhoneDemo.build/Objects-normal/i386/XMLRPCRequest.o "/Users/pbharrin/Desktop/iPhone Code/DruaplNiPhoneDemo/XMLRPCRequest.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s285786467.716901
+e285786467.795227
+r1
+xCompileC
+xbuild/DruaplNiPhoneDemo.build/Debug-iphonesimulator/DruaplNiPhoneDemo.build/Objects-normal/i386/XMLRPCRequest.o
+x/Users/pbharrin/Desktop/iPhone Code/DruaplNiPhoneDemo/XMLRPCRequest.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@77"Compile /Users/pbharrin/Desktop/iPhone Code/DruaplNiPhoneDemo/XMLRPCRequest.m285786467#285786467#0(0"0(0#0#69"/Users/pbharrin/Desktop/iPhone Code/DruaplNiPhoneDemo/XMLRPCRequest.m4300885448#2264"    cd "/Users/pbharrin/Desktop/iPhone Code/DruaplNiPhoneDemo"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/pbharrin/Desktop/iPhone Code/DruaplNiPhoneDemo/build/DruaplNiPhoneDemo.build/Debug-iphonesimulator/DruaplNiPhoneDemo.build/DruaplNiPhoneDemo-generated-files.hmap" "-I/Users/pbharrin/Desktop/iPhone Code/DruaplNiPhoneDemo/build/DruaplNiPhoneDemo.build/Debug-iphonesimulator/DruaplNiPhoneDemo.build/DruaplNiPhoneDemo-own-target-headers.hmap" "-I/Users/pbharrin/Desktop/iPhone Code/DruaplNiPhoneDemo/build/DruaplNiPhoneDemo.build/Debug-iphonesimulator/DruaplNiPhoneDemo.build/DruaplNiPhoneDemo-all-target-headers.hmap" -iquote "/Users/pbharrin/Desktop/iPhone Code/DruaplNiPhoneDemo/build/DruaplNiPhoneDemo.build/Debug-iphonesimulator/DruaplNiPhoneDemo.build/DruaplNiPhoneDemo-project-headers.hmap" "-F/Users/pbharrin/Desktop/iPhone Code/DruaplNiPhoneDemo/build/Debug-iphonesimulator" "-I/Users/pbharrin/Desktop/iPhone Code/DruaplNiPhoneDemo/build/Debug-iphonesimulator/include" "-I/Users/pbharrin/Desktop/iPhone Code/DruaplNiPhoneDemo/build/DruaplNiPhoneDemo.build/Debug-iphonesimulator/DruaplNiPhoneDemo.build/DerivedSources/i386" "-I/Users/pbharrin/Desktop/iPhone Code/DruaplNiPhoneDemo/build/DruaplNiPhoneDemo.build/Debug-iphonesimulator/DruaplNiPhoneDemo.build/DerivedSources" -include /var/folders/c1/c1VA5ImpGMu52EcF+Nbavk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DruaplNiPhoneDemo_Prefix-bhmtvllvxorcypgznkmzglkixskl/DruaplNiPhoneDemo_Prefix.pch -c "/Users/pbharrin/Desktop/iPhone Code/DruaplNiPhoneDemo/XMLRPCRequest.m" -o "/Users/pbharrin/Desktop/iPhone Code/DruaplNiPhoneDemo/build/DruaplNiPhoneDemo.build/Debug-iphonesimulator/DruaplNiPhoneDemo.build/Objects-normal/i386/XMLRPCRequest.o"0#
+
+CCompileC build/DruaplNiPhoneDemo.build/Debug-iphonesimulator/DruaplNiPhoneDemo.build/Objects-normal/i386/XMLRPCResponse.o "/Users/pbharrin/Desktop/iPhone Code/DruaplNiPhoneDemo/XMLRPCResponse.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s285786467.722219
+e285786467.785893
+r1
+xCompileC
+xbuild/DruaplNiPhoneDemo.build/Debug-iphonesimulator/DruaplNiPhoneDemo.build/Objects-normal/i386/XMLRPCResponse.o
+x/Users/pbharrin/Desktop/iPhone Code/DruaplNiPhoneDemo/XMLRPCResponse.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@78"Compile /Users/pbharrin/Desktop/iPhone Code/DruaplNiPhoneDemo/XMLRPCResponse.m285786467#285786467#0(0"0(0#0#70"/Users/pbharrin/Desktop/iPhone Code/DruaplNiPhoneDemo/XMLRPCResponse.m4300885448#2266"    cd "/Users/pbharrin/Desktop/iPhone Code/DruaplNiPhoneDemo"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/pbharrin/Desktop/iPhone Code/DruaplNiPhoneDemo/build/DruaplNiPhoneDemo.build/Debug-iphonesimulator/DruaplNiPhoneDemo.build/DruaplNiPhoneDemo-generated-files.hmap" "-I/Users/pbharrin/Desktop/iPhone Code/DruaplNiPhoneDemo/build/DruaplNiPhoneDemo.build/Debug-iphonesimulator/DruaplNiPhoneDemo.build/DruaplNiPhoneDemo-own-target-headers.hmap" "-I/Users/pbharrin/Desktop/iPhone Code/DruaplNiPhoneDemo/build/DruaplNiPhoneDemo.build/Debug-iphonesimulator/DruaplNiPhoneDemo.build/DruaplNiPhoneDemo-all-target-headers.hmap" -iquote "/Users/pbharrin/Desktop/iPhone Code/DruaplNiPhoneDemo/build/DruaplNiPhoneDemo.build/Debug-iphonesimulator/DruaplNiPhoneDemo.build/DruaplNiPhoneDemo-project-headers.hmap" "-F/Users/pbharrin/Desktop/iPhone Code/DruaplNiPhoneDemo/build/Debug-iphonesimulator" "-I/Users/pbharrin/Desktop/iPhone Code/DruaplNiPhoneDemo/build/Debug-iphonesimulator/include" "-I/Users/pbharrin/Desktop/iPhone Code/DruaplNiPhoneDemo/build/DruaplNiPhoneDemo.build/Debug-iphonesimulator/DruaplNiPhoneDemo.build/DerivedSources/i386" "-I/Users/pbharrin/Desktop/iPhone Code/DruaplNiPhoneDemo/build/DruaplNiPhoneDemo.build/Debug-iphonesimulator/DruaplNiPhoneDemo.build/DerivedSources" -include /var/folders/c1/c1VA5ImpGMu52EcF+Nbavk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DruaplNiPhoneDemo_Prefix-bhmtvllvxorcypgznkmzglkixskl/DruaplNiPhoneDemo_Prefix.pch -c "/Users/pbharrin/Desktop/iPhone Code/DruaplNiPhoneDemo/XMLRPCResponse.m" -o "/Users/pbharrin/Desktop/iPhone Code/DruaplNiPhoneDemo/build/DruaplNiPhoneDemo.build/Debug-iphonesimulator/DruaplNiPhoneDemo.build/Objects-normal/i386/XMLRPCResponse.o"0#
+
+CCompileC build/DruaplNiPhoneDemo.build/Debug-iphonesimulator/DruaplNiPhoneDemo.build/Objects-normal/i386/XMLValueDecoder.o "/Users/pbharrin/Desktop/iPhone Code/DruaplNiPhoneDemo/XMLValueDecoder.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s285786467.785986
+e285786467.850472
+r1
+xCompileC
+xbuild/DruaplNiPhoneDemo.build/Debug-iphonesimulator/DruaplNiPhoneDemo.build/Objects-normal/i386/XMLValueDecoder.o
+x/Users/pbharrin/Desktop/iPhone Code/DruaplNiPhoneDemo/XMLValueDecoder.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@79"Compile /Users/pbharrin/Desktop/iPhone Code/DruaplNiPhoneDemo/XMLValueDecoder.m285786467#285786467#0(0"0(0#0#71"/Users/pbharrin/Desktop/iPhone Code/DruaplNiPhoneDemo/XMLValueDecoder.m4300885448#2268"    cd "/Users/pbharrin/Desktop/iPhone Code/DruaplNiPhoneDemo"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/pbharrin/Desktop/iPhone Code/DruaplNiPhoneDemo/build/DruaplNiPhoneDemo.build/Debug-iphonesimulator/DruaplNiPhoneDemo.build/DruaplNiPhoneDemo-generated-files.hmap" "-I/Users/pbharrin/Desktop/iPhone Code/DruaplNiPhoneDemo/build/DruaplNiPhoneDemo.build/Debug-iphonesimulator/DruaplNiPhoneDemo.build/DruaplNiPhoneDemo-own-target-headers.hmap" "-I/Users/pbharrin/Desktop/iPhone Code/DruaplNiPhoneDemo/build/DruaplNiPhoneDemo.build/Debug-iphonesimulator/DruaplNiPhoneDemo.build/DruaplNiPhoneDemo-all-target-headers.hmap" -iquote "/Users/pbharrin/Desktop/iPhone Code/DruaplNiPhoneDemo/build/DruaplNiPhoneDemo.build/Debug-iphonesimulator/DruaplNiPhoneDemo.build/DruaplNiPhoneDemo-project-headers.hmap" "-F/Users/pbharrin/Desktop/iPhone Code/DruaplNiPhoneDemo/build/Debug-iphonesimulator" "-I/Users/pbharrin/Desktop/iPhone Code/DruaplNiPhoneDemo/build/Debug-iphonesimulator/include" "-I/Users/pbharrin/Desktop/iPhone Code/DruaplNiPhoneDemo/build/DruaplNiPhoneDemo.build/Debug-iphonesimulator/DruaplNiPhoneDemo.build/DerivedSources/i386" "-I/Users/pbharrin/Desktop/iPhone Code/DruaplNiPhoneDemo/build/DruaplNiPhoneDemo.build/Debug-iphonesimulator/DruaplNiPhoneDemo.build/DerivedSources" -include /var/folders/c1/c1VA5ImpGMu52EcF+Nbavk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DruaplNiPhoneDemo_Prefix-bhmtvllvxorcypgznkmzglkixskl/DruaplNiPhoneDemo_Prefix.pch -c "/Users/pbharrin/Desktop/iPhone Code/DruaplNiPhoneDemo/XMLValueDecoder.m" -o "/Users/pbharrin/Desktop/iPhone Code/DruaplNiPhoneDemo/build/DruaplNiPhoneDemo.build/Debug-iphonesimulator/DruaplNiPhoneDemo.build/Objects-normal/i386/XMLValueDecoder.o"0#
+
+CCompileC build/DruaplNiPhoneDemo.build/Debug-iphonesimulator/DruaplNiPhoneDemo.build/Objects-normal/i386/main.o "/Users/pbharrin/Desktop/iPhone Code/DruaplNiPhoneDemo/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s285786467.448929
+e285786467.493687
+r1
+xCompileC
+xbuild/DruaplNiPhoneDemo.build/Debug-iphonesimulator/DruaplNiPhoneDemo.build/Objects-normal/i386/main.o
+x/Users/pbharrin/Desktop/iPhone Code/DruaplNiPhoneDemo/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@68"Compile /Users/pbharrin/Desktop/iPhone Code/DruaplNiPhoneDemo/main.m285786467#285786467#0(0"0(0#0#60"/Users/pbharrin/Desktop/iPhone Code/DruaplNiPhoneDemo/main.m4300885448#2246"    cd "/Users/pbharrin/Desktop/iPhone Code/DruaplNiPhoneDemo"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/pbharrin/Desktop/iPhone Code/DruaplNiPhoneDemo/build/DruaplNiPhoneDemo.build/Debug-iphonesimulator/DruaplNiPhoneDemo.build/DruaplNiPhoneDemo-generated-files.hmap" "-I/Users/pbharrin/Desktop/iPhone Code/DruaplNiPhoneDemo/build/DruaplNiPhoneDemo.build/Debug-iphonesimulator/DruaplNiPhoneDemo.build/DruaplNiPhoneDemo-own-target-headers.hmap" "-I/Users/pbharrin/Desktop/iPhone Code/DruaplNiPhoneDemo/build/DruaplNiPhoneDemo.build/Debug-iphonesimulator/DruaplNiPhoneDemo.build/DruaplNiPhoneDemo-all-target-headers.hmap" -iquote "/Users/pbharrin/Desktop/iPhone Code/DruaplNiPhoneDemo/build/DruaplNiPhoneDemo.build/Debug-iphonesimulator/DruaplNiPhoneDemo.build/DruaplNiPhoneDemo-project-headers.hmap" "-F/Users/pbharrin/Desktop/iPhone Code/DruaplNiPhoneDemo/build/Debug-iphonesimulator" "-I/Users/pbharrin/Desktop/iPhone Code/DruaplNiPhoneDemo/build/Debug-iphonesimulator/include" "-I/Users/pbharrin/Desktop/iPhone Code/DruaplNiPhoneDemo/build/DruaplNiPhoneDemo.build/Debug-iphonesimulator/DruaplNiPhoneDemo.build/DerivedSources/i386" "-I/Users/pbharrin/Desktop/iPhone Code/DruaplNiPhoneDemo/build/DruaplNiPhoneDemo.build/Debug-iphonesimulator/DruaplNiPhoneDemo.build/DerivedSources" -include /var/folders/c1/c1VA5ImpGMu52EcF+Nbavk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DruaplNiPhoneDemo_Prefix-bhmtvllvxorcypgznkmzglkixskl/DruaplNiPhoneDemo_Prefix.pch -c "/Users/pbharrin/Desktop/iPhone Code/DruaplNiPhoneDemo/main.m" -o "/Users/pbharrin/Desktop/iPhone Code/DruaplNiPhoneDemo/build/DruaplNiPhoneDemo.build/Debug-iphonesimulator/DruaplNiPhoneDemo.build/Objects-normal/i386/main.o"0#
+
+CCompileXIB "/Users/pbharrin/Desktop/iPhone Code/DruaplNiPhoneDemo/DruaplNiPhoneDemoViewController.xib"
+s285786466.679706
+e285786466.911888
+r1
+xCompileXIB
+x/Users/pbharrin/Desktop/iPhone Code/DruaplNiPhoneDemo/DruaplNiPhoneDemoViewController.xib
+lSLF07#2@46"CompileXIB DruaplNiPhoneDemoViewController.xib285786466#285786466#0(0"0(0#0#89"/Users/pbharrin/Desktop/iPhone Code/DruaplNiPhoneDemo/DruaplNiPhoneDemoViewController.xib4300885448#585"    cd "/Users/pbharrin/Desktop/iPhone Code/DruaplNiPhoneDemo"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/pbharrin/Desktop/iPhone Code/DruaplNiPhoneDemo/build/Debug-iphonesimulator/DruaplNiPhoneDemo.app/DruaplNiPhoneDemoViewController.nib" "/Users/pbharrin/Desktop/iPhone Code/DruaplNiPhoneDemo/DruaplNiPhoneDemoViewController.xib"0#
+
+CCompileXIB "/Users/pbharrin/Desktop/iPhone Code/DruaplNiPhoneDemo/MainWindow.xib"
+s285786466.679165
+e285786466.913870
+r1
+xCompileXIB
+x/Users/pbharrin/Desktop/iPhone Code/DruaplNiPhoneDemo/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib285786466#285786466#0(0"0(0#0#68"/Users/pbharrin/Desktop/iPhone Code/DruaplNiPhoneDemo/MainWindow.xib4300885448#543"    cd "/Users/pbharrin/Desktop/iPhone Code/DruaplNiPhoneDemo"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/pbharrin/Desktop/iPhone Code/DruaplNiPhoneDemo/build/Debug-iphonesimulator/DruaplNiPhoneDemo.app/MainWindow.nib" "/Users/pbharrin/Desktop/iPhone Code/DruaplNiPhoneDemo/MainWindow.xib"0#
+
+CGenerateDSYMFile "/Users/pbharrin/Desktop/iPhone Code/DruaplNiPhoneDemo/build/Debug-iphonesimulator/DruaplNiPhoneDemo.app.dSYM" "/Users/pbharrin/Desktop/iPhone Code/DruaplNiPhoneDemo/build/Debug-iphonesimulator/DruaplNiPhoneDemo.app/DruaplNiPhoneDemo"
+r0
+
+CLd "/Users/pbharrin/Desktop/iPhone Code/DruaplNiPhoneDemo/build/Debug-iphonesimulator/DruaplNiPhoneDemo.app/DruaplNiPhoneDemo" normal i386
+r0
+
+CProcessInfoPlistFile "/Users/pbharrin/Desktop/iPhone Code/DruaplNiPhoneDemo/build/Debug-iphonesimulator/DruaplNiPhoneDemo.app/Info.plist" DruaplNiPhoneDemo-Info.plist
+s285786466.676141
+e285786466.679102
+r1
+xProcessInfoPlistFile
+x/Users/pbharrin/Desktop/iPhone Code/DruaplNiPhoneDemo/build/Debug-iphonesimulator/DruaplNiPhoneDemo.app/Info.plist
+xDruaplNiPhoneDemo-Info.plist
+lSLF07#2@36"Process DruaplNiPhoneDemo-Info.plist285786466#285786466#0(0"0(0#0#82"/Users/pbharrin/Desktop/iPhone Code/DruaplNiPhoneDemo/DruaplNiPhoneDemo-Info.plist4300885448#560"    cd "/Users/pbharrin/Desktop/iPhone Code/DruaplNiPhoneDemo"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility DruaplNiPhoneDemo-Info.plist -genpkginfo "/Users/pbharrin/Desktop/iPhone Code/DruaplNiPhoneDemo/build/Debug-iphonesimulator/DruaplNiPhoneDemo.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/Users/pbharrin/Desktop/iPhone Code/DruaplNiPhoneDemo/build/Debug-iphonesimulator/DruaplNiPhoneDemo.app/Info.plist"0#
+
+CProcessPCH /var/folders/c1/c1VA5ImpGMu52EcF+Nbavk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DruaplNiPhoneDemo_Prefix-bhmtvllvxorcypgznkmzglkixskl/DruaplNiPhoneDemo_Prefix.pch.gch DruaplNiPhoneDemo_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s285786466.913971
+e285786467.448777
+r1
+xProcessPCH
+x/var/folders/c1/c1VA5ImpGMu52EcF+Nbavk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DruaplNiPhoneDemo_Prefix-bhmtvllvxorcypgznkmzglkixskl/DruaplNiPhoneDemo_Prefix.pch.gch
+xDruaplNiPhoneDemo_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@39"Precompile DruaplNiPhoneDemo_Prefix.pch285786466#285786467#0(0"0(0#0#82"/Users/pbharrin/Desktop/iPhone Code/DruaplNiPhoneDemo/DruaplNiPhoneDemo_Prefix.pch4300885448#2111"    cd "/Users/pbharrin/Desktop/iPhone Code/DruaplNiPhoneDemo"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/pbharrin/Desktop/iPhone Code/DruaplNiPhoneDemo/build/DruaplNiPhoneDemo.build/Debug-iphonesimulator/DruaplNiPhoneDemo.build/DruaplNiPhoneDemo-generated-files.hmap" "-I/Users/pbharrin/Desktop/iPhone Code/DruaplNiPhoneDemo/build/DruaplNiPhoneDemo.build/Debug-iphonesimulator/DruaplNiPhoneDemo.build/DruaplNiPhoneDemo-own-target-headers.hmap" "-I/Users/pbharrin/Desktop/iPhone Code/DruaplNiPhoneDemo/build/DruaplNiPhoneDemo.build/Debug-iphonesimulator/DruaplNiPhoneDemo.build/DruaplNiPhoneDemo-all-target-headers.hmap" -iquote "/Users/pbharrin/Desktop/iPhone Code/DruaplNiPhoneDemo/build/DruaplNiPhoneDemo.build/Debug-iphonesimulator/DruaplNiPhoneDemo.build/DruaplNiPhoneDemo-project-headers.hmap" "-F/Users/pbharrin/Desktop/iPhone Code/DruaplNiPhoneDemo/build/Debug-iphonesimulator" "-I/Users/pbharrin/Desktop/iPhone Code/DruaplNiPhoneDemo/build/Debug-iphonesimulator/include" "-I/Users/pbharrin/Desktop/iPhone Code/DruaplNiPhoneDemo/build/DruaplNiPhoneDemo.build/Debug-iphonesimulator/DruaplNiPhoneDemo.build/DerivedSources/i386" "-I/Users/pbharrin/Desktop/iPhone Code/DruaplNiPhoneDemo/build/DruaplNiPhoneDemo.build/Debug-iphonesimulator/DruaplNiPhoneDemo.build/DerivedSources" -c "/Users/pbharrin/Desktop/iPhone Code/DruaplNiPhoneDemo/DruaplNiPhoneDemo_Prefix.pch" -o /var/folders/c1/c1VA5ImpGMu52EcF+Nbavk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DruaplNiPhoneDemo_Prefix-bhmtvllvxorcypgznkmzglkixskl/DruaplNiPhoneDemo_Prefix.pch.gch0#
+
+CTouch "/Users/pbharrin/Desktop/iPhone Code/DruaplNiPhoneDemo/build/Debug-iphonesimulator/DruaplNiPhoneDemo.app"
+r0
+
